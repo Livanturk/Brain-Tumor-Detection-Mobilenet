@@ -2,3 +2,4 @@ braintumor/
 BrainTumorModelAndDocuments/
 datasets/
 logs/
+best_brain_tumor_model.pth
